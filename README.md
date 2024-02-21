@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Bajracharya</h1>
-<h3 align="center">Passionate Java Developer and Flutter Developer from Nepal</h3>
+<h3 align="center">Passionate Flutter Developer from Nepal looking for Flutter Internship</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbajracharya&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbajracharya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitbajracharya" alt="rohitbajracharya" /></a> </p>
 
-- 💬 Ask me about **Java, Flutter**
+- 💬 Ask me about **Flutter, Java**
 
 - 📫 How to reach me **rohitbajra2001@gmail.com**
 
