@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Bajracharya</h1>
-<h3 align="center">Passionate Java Developer and Flutter Developer from Nepal</h3>
+<h3 align="center">I code in Flutter, Java and Node/Express</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbajracharya&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbajracharya" /> </p>
 
