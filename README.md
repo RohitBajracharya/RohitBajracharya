@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitbajracharya" alt="rohitbajracharya" /></a> </p>
 
-- 💬 Ask me about **Java, Flutter**
+- 💬 Ask me about **Flutter,Node/Express, Java**
 
 - 📫 How to reach me **rohitbajra2001@gmail.com**
 
